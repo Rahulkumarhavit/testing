@@ -12,3 +12,4 @@ interest_amount = calculate_interest(principal_amount, interest_rate, time_perio
 
 # Print the result
 print
+test the whole code 
