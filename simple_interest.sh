@@ -11,4 +11,4 @@ time_period = 3
 interest_amount = calculate_interest(principal_amount, interest_rate, time_period)
 
 # Print the result
-print
+print()
